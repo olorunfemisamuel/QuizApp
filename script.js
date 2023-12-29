@@ -32,7 +32,7 @@ const questions = [
         {text: "No", correct: false},
         {text: "Never", correct: false},
         {text: "Absolutely", correct: false},
-        {text: "Him no dey think am but God go us am", correct: true},
+        {text: "Him no dey think am but God go use am", correct: true},
         ]
     }
 ];

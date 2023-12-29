@@ -27,12 +27,12 @@ const questions = [
         ]
     },
     {
-        question: "Which is the smallest continent in the world?",
+        question: "Will Mr. Miracle become a Tech Pastor?",
         answers: [
-        {text: "Asia", correct: false},
-        {text: "Australia", correct: true},
-        {text: "Arctic", correct: false},
-        {text: "Africa", correct: false},
+        {text: "No", correct: false},
+        {text: "Never", correct: false},
+        {text: "Absolutely", correct: false},
+        {text: "Him no dey think am but God go us am", correct: true},
         ]
     }
 ];

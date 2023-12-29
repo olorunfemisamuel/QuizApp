@@ -9,7 +9,7 @@ const questions = [
         ]
     },
     {
-        question: "When will we see Mr. Miracle girlfriend?",
+        question: "When will we see Mr. Miracle's girlfriend?",
         answers: [
         {text: "In 2 years", correct: false},
         {text: "In 2 weeks", correct: false},

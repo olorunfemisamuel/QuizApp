@@ -9,12 +9,12 @@ const questions = [
         ]
     },
     {
-        question: "Which is the smallest country in the world?",
+        question: "When will we see Mr. Miracle girlfriend?",
         answers: [
-        {text: "Vatican City", correct: true},
-        {text: "Bhutan", correct: false},
-        {text: "Nepal", correct: false},
-        {text: "Shri Lanka", correct: false},
+        {text: "In 2 years", correct: false},
+        {text: "In 2 weeks", correct: false},
+        {text: "In 2 days", correct: false},
+        {text: "Never", correct: true},
         ]
     },
     {

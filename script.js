@@ -18,12 +18,12 @@ const questions = [
         ]
     },
     {
-        question: "Which is the largest desert in the world?",
+        question: "When will Mr. Miracle marry?",
         answers: [
-        {text: "Kalahari", correct: false},
-        {text: "Gobi", correct: true},
-        {text: "Sahara", correct: false},
-        {text: "Antarctica", correct: false},
+        {text: "In 2 years time", correct: false},
+        {text: "In 3 years time", correct: false},
+        {text: "In two weeks time", correct: true},
+        {text: "In two months time", correct: false},
         ]
     },
     {
